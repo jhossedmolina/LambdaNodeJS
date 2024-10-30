@@ -1,1 +1,2 @@
-# LambdaNodeJS
+# PokedexInfraestructura
+Infraestructura del proyecto pokedex
