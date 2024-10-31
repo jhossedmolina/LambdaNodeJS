@@ -26,10 +26,16 @@ Asegúrate de tener instalado lo siguiente:
    ```bash
    git clone https://github.com/jhossedmolina/LambdaNodeJS.git
 2. Navegar al directorio del proyecto
+
+
    cd LambdaNodeJS
 3. Instalar las dependencias
+
+   
    npm install
 4. Desplegar en Serverless
+
+   
    serverless deploy
 
 
