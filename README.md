@@ -24,7 +24,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1. Clona el repositorio:
    ```bash
-   [git clone <URL-del-repositorio>](https://github.com/jhossedmolina/LambdaNodeJS.git)
+   [git clone https://github.com/jhossedmolina/LambdaNodeJS.git]
 2. Navegar al directorio del proyecto
    cd LambdaNodeJS
 3. Instalar las dependencias
